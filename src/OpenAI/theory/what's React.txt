@@ -1,0 +1,13 @@
+1- what is React ?
+
+React is a JavaScript library for building UI. Created by Meta. Instead of manually changing HTML using JavaScript - React lets you describe UI as components:
+
+
+2. What is SPA?
+
+SPA = Single Page Application.
+Instead of reloading the entire page, only necessary UI updates.
+Examples: 
+    Facebook
+    Gmail
+    Netflix
