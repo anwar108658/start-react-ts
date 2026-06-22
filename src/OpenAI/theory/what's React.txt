@@ -11,3 +11,11 @@ Examples:
     Facebook
     Gmail
     Netflix
+
+3. What is JSX?
+
+JSX is a syntax extension for JavaScript that allows developers to write UI code that looks similar to HTML. React converts JSX into JavaScript function calls.
+
+4. Is JSX HTML?
+
+No JSX looks like HTML but is converted into JavaScript.
