@@ -53,7 +53,7 @@ const TodoList = () => {
       </li>
     ))
   ) : (
-    <p className="text-[.8rem]">No data found⚠️</p>
+    <p className="text-[.8rem]">No data found ⚠️</p>
   )}
 </ul>
 
